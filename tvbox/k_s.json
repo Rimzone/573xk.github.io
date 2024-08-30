@@ -1,100 +1,52 @@
 {
     "urls": [
         {
-            "url": "http://饭太硬.com/tv",
+            "url": "http://www.饭太硬.com/tv/",
             "name": "饭太硬"
         },
         {
-            "url": "https://weixine.net/ysc.txt",
-            "name": "运输车"
+            "url": "http://肥猫.com",
+            "name": "肥猫"
         },
         {
-            "url": "http://43.242.202.173:25253/tvbox/saodiseng.php?id=369258147",
-            "name": "扫地僧"
+            "url": "https://xn--8owq8u.com/tv/",
+            "name": "毒盒"
+        },
+        {
+            "url": "http://www.meowtv.vip/tvbox.json",
+            "name": "喵影视"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "巧技"
         },
         {
-            "url": "http://rim.42web.io/tvbox/ok/api.txt",
-            "name": "ok"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/pg/api.txt",
-            "name": "pg"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/白嫖/api.txt",
-            "name": "白嫖"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/春莹天下/api.txt",
-            "name": "春莹天下"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/道长/api.txt",
-            "name": "道长"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/飞龙影视/api.txt",
-            "name": "飞龙影视"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/荷城茶秀/api.txt",
-            "name": "荷城茶秀"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/喵影视线/api.txt",
-            "name": "喵影视线"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/摸鱼线路/api.txt",
-            "name": "摸鱼线路"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/七星影视/api.txt",
-            "name": "七星影视"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/骚零影视/api.txt",
-            "name": "骚零影视"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/少儿频道/api.txt",
-            "name": "少儿频道"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/天天开心/api.txt",
+            "url": "http://573xk.pages.dev/tvbox/天天开心/api.json",
             "name": "天天开心"
         },
         {
-            "url": "http://rim.42web.io/tvbox/天微VIP/api.txt",
-            "name": "天微VIP"
+            "url": "http://573xk.pages.dev/tvbox/ok/api.json",
+            "name": "ok"
         },
         {
-            "url": "http://rim.42web.io/tvbox/王二小/api.txt",
-            "name": "王二小"
+            "url": "http://573xk.pages.dev/tvbox/南风/api.json",
+            "name": "南风"
         },
         {
-            "url": "http://rim.42web.io/tvbox/无意云/api.txt",
-            "name": "无意云"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/香雅情/api.txt",
-            "name": "香雅情"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/小胡/api.txt",
-            "name": "小胡"
-        },
-        {
-            "url": "http://rim.42web.io/tvbox/小米/api.txt",
+            "url": "http://573xk.pages.dev/tvbox/小米/api.json",
             "name": "小米"
         },
         {
-            "url": "http://rim.42web.io/tvbox/云星日记/api.txt",
-            "name": "云星日记"
+            "url": "http://573xk.pages.dev/tvbox/道长/api.json",
+            "name": "道长"
+        },
+        {
+            "url": "http://573xk.pages.dev/tvbox/飞龙影视/api.json",
+            "name": "飞龙影视"
+        },
+        {
+            "url": "http://573xk.pages.dev/tvbox/摸鱼线路/api.json",
+            "name": "摸鱼线路"
         }
     ]
 }
