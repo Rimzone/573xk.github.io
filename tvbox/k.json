@@ -1,0 +1,20 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "K（3v.do）",
+            "sourceUrl": "http://573xk.web3v.work/k_s.json"
+        },
+        {
+            "sourceName": "K（infinityfree）",
+            "sourceUrl": "http://rim.42web.io/tvbox/k_s.txt"
+        },
+        {
+            "sourceName": "K（ct8.pl）",
+            "sourceUrl": "http://rim.ct8.pl/tvbox/k_s.txt"
+        },
+        {
+            "sourceName": "2024-07-19更新",
+            "sourceUrl": "..."
+        }
+    ]
+}
