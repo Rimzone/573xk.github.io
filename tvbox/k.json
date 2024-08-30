@@ -1,16 +1,16 @@
 {
     "storeHouse": [
         {
-            "sourceName": "K（cloudflare）",
-            "sourceUrl": "https://573xk.pages.dev/tvbox/k_s.json"
-        },
-        {
             "sourceName": "K（infinityfree）",
             "sourceUrl": "http://rim.42web.io/tvbox/k_s.txt"
         },
         {
-            "sourceName": "K（github）",
+            "sourceName": "K（geocities）",
             "sourceUrl": "https://573xk.github.io/tvbox/k_s.json"
+        },
+        {
+            "sourceName": "K（cloudflare）",
+            "sourceUrl": "https://573xk.pages.dev/tvbox/k_s.json"
         },
         {
             "sourceName": "2024-08-30更新",
